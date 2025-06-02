@@ -5,7 +5,7 @@
         Product Page
         
         @php //script php secara manual salah satu syntax yang menggunakan end 
-            $products = ['apple', 'banana', 'orange', 'starfruit']; //$ itu artinya memanggil satu variabel (memanggil sebuah variable yang bernama product)
+            //$products = ['apple', 'banana', 'orange', 'starfruit']; //$ itu artinya memanggil satu variabel (memanggil sebuah variable yang bernama product)
         @endphp
 
         {{-- jika si product itu kosong maka kita tampilin productnya kosong --}}
